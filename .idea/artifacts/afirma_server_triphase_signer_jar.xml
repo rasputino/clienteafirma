@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="afirma-server-triphase-signer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/afirma_server_triphase_signer_jar</output-path>
+    <root id="archive" name="afirma-server-triphase-signer.jar">
+      <element id="module-output" name="afirma-server-triphase-signer" />
+      <element id="module-output" name="afirma-core" />
+      <element id="module-output" name="afirma-server-triphase-signer-core" />
+      <element id="module-output" name="afirma-crypto-cades-multi" />
+      <element id="module-output" name="afirma-crypto-cades" />
+      <element id="module-output" name="afirma-crypto-core-pkcs7" />
+      <element id="module-output" name="afirma-crypto-xades" />
+      <element id="module-output" name="afirma-crypto-core-xml" />
+      <element id="module-output" name="afirma-crypto-pdf" />
+      <element id="module-output" name="afirma-ui-core-jse" />
+      <element id="module-output" name="afirma-crypto-core-pkcs7-tsp" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/es/gob/afirma/afirma-lib-oro/0.0.3-SNAPSHOT/afirma-lib-oro-0.0.3-20151106.091034-9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/java/xades/jxades/0.1.5/jxades-0.1.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/madgag/spongycastle/prov/1.54.0.0/prov-1.54.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/madgag/spongycastle/pkix/1.54.0.0/pkix-1.54.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/madgag/spongycastle/core/1.54.0.0/core-1.54.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/es/gob/afirma/afirma-lib-itext/3.3.2-SNAPSHOT/afirma-lib-itext-3.3.2-20160211.170057-46.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/es/gob/afirma/afirma-lib-jmimemagic/0.0.3-SNAPSHOT/afirma-lib-jmimemagic-0.0.3-20160223.143312-21.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

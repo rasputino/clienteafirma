@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-core-keystores" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-core-massive" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-crypto-batch-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-crypto-cades" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-crypto-cades-multi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-crypto-cadestri-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-crypto-cipher" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-crypto-cms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-crypto-cms-enveloper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-crypto-core-pkcs7" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-crypto-core-pkcs7-tsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-crypto-core-xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-crypto-jarverifier" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-crypto-odf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-crypto-ooxml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-crypto-padestri-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-crypto-pdf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-crypto-pdf-enhancer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-crypto-validation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-crypto-xades" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-crypto-xadestri-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-crypto-xmlsignature" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-keystores-capiaddressbook" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-keystores-filters" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-keystores-mozilla" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-keystores-single" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-server-triphase-signer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-server-triphase-signer-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-ui-core-jse" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/afirma-ui-core-jse-keystores" charset="UTF-8" />
+  </component>
+</project>

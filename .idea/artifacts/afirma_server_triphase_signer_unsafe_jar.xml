@@ -1,0 +1,29 @@
+<component name="ArtifactManager">
+  <artifact name="afirma-server-triphase-signer-unsafe:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/afirma_server_triphase_signer_unsafe_jar</output-path>
+    <root id="root">
+      <element id="archive" name="afirma-server-triphase-signer-unsafe.jar">
+        <element id="module-output" name="afirma-server-triphase-signer-unsafe" />
+        <element id="module-output" name="afirma-server-triphase-signer" />
+        <element id="module-output" name="afirma-core" />
+        <element id="module-output" name="afirma-server-triphase-signer-core" />
+        <element id="module-output" name="afirma-crypto-cades-multi" />
+        <element id="module-output" name="afirma-crypto-cades" />
+        <element id="module-output" name="afirma-crypto-core-pkcs7" />
+        <element id="module-output" name="afirma-crypto-core-pkcs7-tsp" />
+        <element id="module-output" name="afirma-crypto-xades" />
+        <element id="module-output" name="afirma-crypto-core-xml" />
+        <element id="module-output" name="afirma-crypto-pdf" />
+        <element id="module-output" name="afirma-ui-core-jse" />
+      </element>
+      <element id="library" level="project" name="Maven: es.gob.afirma:afirma-lib-oro:0.0.3-SNAPSHOT" />
+      <element id="library" level="project" name="Maven: net.java.xades:jxades:0.1.5" />
+      <element id="library" level="project" name="Maven: com.madgag.spongycastle:prov:1.54.0.0" />
+      <element id="file-copy" path="$PROJECT_DIR$/../clienteafirma-external/classes/artifacts/afirma_lib_itext_jar/afirma-lib-itext.jar" />
+      <element id="library" level="project" name="Maven: com.madgag.spongycastle:pkix:1.54.0.0" />
+      <element id="library" level="project" name="Maven: com.madgag.spongycastle:core:1.54.0.0" />
+      <element id="library" level="project" name="Maven: es.gob.afirma:afirma-lib-itext:3.3.2-SNAPSHOT" />
+      <element id="library" level="project" name="Maven: es.gob.afirma:afirma-lib-jmimemagic:0.0.3-SNAPSHOT" />
+    </root>
+  </artifact>
+</component>

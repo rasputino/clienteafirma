@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: afirma-lib-oro-0.0.3-20151106.091034-9.jar jxades-0.1.5.ja
+ r prov-1.54.0.0.jar afirma-lib-itext.jar pkix-1.54.0.0.jar core-1.54.
+ 0.0.jar afirma-lib-itext-3.3.2-20160211.170057-46.jar afirma-lib-jmim
+ emagic-0.0.3-20160223.143312-21.jar
+Main-Class: 
+

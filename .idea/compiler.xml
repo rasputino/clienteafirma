@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="afirma-core" />
+        <module name="afirma-core-keystores" />
+        <module name="afirma-core-massive" />
+        <module name="afirma-crypto-batch-client" />
+        <module name="afirma-crypto-cades" />
+        <module name="afirma-crypto-cades-multi" />
+        <module name="afirma-crypto-cadestri-client" />
+        <module name="afirma-crypto-cipher" />
+        <module name="afirma-crypto-cms" />
+        <module name="afirma-crypto-cms-enveloper" />
+        <module name="afirma-crypto-core-pkcs7" />
+        <module name="afirma-crypto-core-pkcs7-tsp" />
+        <module name="afirma-crypto-core-xml" />
+        <module name="afirma-crypto-jarverifier" />
+        <module name="afirma-crypto-odf" />
+        <module name="afirma-crypto-ooxml" />
+        <module name="afirma-crypto-padestri-client" />
+        <module name="afirma-crypto-pdf" />
+        <module name="afirma-crypto-pdf-enhancer" />
+        <module name="afirma-crypto-validation" />
+        <module name="afirma-crypto-xades" />
+        <module name="afirma-crypto-xadestri-client" />
+        <module name="afirma-crypto-xmlsignature" />
+        <module name="afirma-keystores-capiaddressbook" />
+        <module name="afirma-keystores-filters" />
+        <module name="afirma-keystores-mozilla" />
+        <module name="afirma-keystores-single" />
+        <module name="afirma-server-triphase-signer" />
+        <module name="afirma-server-triphase-signer-core" />
+        <module name="afirma-ui-core-jse" />
+        <module name="afirma-ui-core-jse-keystores" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="afirma-client" target="1.6" />
+      <module name="afirma-core" target="1.6" />
+      <module name="afirma-core-keystores" target="1.6" />
+      <module name="afirma-core-massive" target="1.6" />
+      <module name="afirma-crypto-batch-client" target="1.6" />
+      <module name="afirma-crypto-cades" target="1.6" />
+      <module name="afirma-crypto-cades-multi" target="1.6" />
+      <module name="afirma-crypto-cadestri-client" target="1.6" />
+      <module name="afirma-crypto-cipher" target="1.7" />
+      <module name="afirma-crypto-cms" target="1.6" />
+      <module name="afirma-crypto-cms-enveloper" target="1.7" />
+      <module name="afirma-crypto-core-pkcs7" target="1.6" />
+      <module name="afirma-crypto-core-pkcs7-tsp" target="1.6" />
+      <module name="afirma-crypto-core-xml" target="1.6" />
+      <module name="afirma-crypto-jarverifier" target="1.6" />
+      <module name="afirma-crypto-odf" target="1.6" />
+      <module name="afirma-crypto-ooxml" target="1.6" />
+      <module name="afirma-crypto-padestri-client" target="1.6" />
+      <module name="afirma-crypto-pdf" target="1.6" />
+      <module name="afirma-crypto-pdf-enhancer" target="1.6" />
+      <module name="afirma-crypto-validation" target="1.7" />
+      <module name="afirma-crypto-xades" target="1.6" />
+      <module name="afirma-crypto-xadestri-client" target="1.6" />
+      <module name="afirma-crypto-xmlsignature" target="1.6" />
+      <module name="afirma-keystores-capiaddressbook" target="1.6" />
+      <module name="afirma-keystores-filters" target="1.6" />
+      <module name="afirma-keystores-mozilla" target="1.6" />
+      <module name="afirma-keystores-single" target="1.6" />
+      <module name="afirma-server-triphase-signer" target="1.6" />
+      <module name="afirma-server-triphase-signer-core" target="1.6" />
+      <module name="afirma-ui-core-jse" target="1.6" />
+      <module name="afirma-ui-core-jse-keystores" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

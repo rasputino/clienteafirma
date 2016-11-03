@@ -39,11 +39,6 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-	
-	<scm>
-		<connection>scm:svn:http://svn-ctt.administracionelectronica.gob.es/svn/clienteafirma/project/afirma-web/server/afirma-server-triphase-signer/trunk</connection>
-		<url>http://svn-ctt.administracionelectronica.gob.es/svn/clienteafirma/project/afirma-web/server/afirma-server-triphase-signer/trunk</url>
-	</scm>
 
 	<build>
 		<plugins>
